@@ -1,0 +1,21 @@
+name: PR Welcome
+
+on:
+  pull_request_target:
+    types: [opened, edited, reopened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions-cool/pr-welcome@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          refuse-issue-label: 'bug'
+          need-creator-authority: 'write'
+          comment: |
+            HI @${{ github.event.pull_request.user.login }}. Thanks for your contribution. 😅 But I refuse.
+          emoji: '+1, -1, heart'
+          reviewers: 'user1, user2'
+          review-creator: false
+          close: true
