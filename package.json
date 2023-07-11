@@ -68,7 +68,7 @@
     "cz-conventional-changelog": "^3.3.0",
     "cz-customizable": "^6.3.0",
     "eslint": "^6.8.0",
-    "eslint-plugin-prettier": "3.1.0",
+    "eslint-plugin-prettier": "5.0.0",
     "eslint-plugin-vue": "^9.1.1",
     "husky": "^7.0.4",
     "lint-staged": "^13.0.1",
