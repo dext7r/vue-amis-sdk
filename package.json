@@ -39,7 +39,7 @@
     "amis-formula": "^2.2.0",
     "amis-ui": "^2.2.0",
     "axios": "^0.27.2",
-    "compression-webpack-plugin": "6.1.1",
+    "compression-webpack-plugin": "6.1.2",
     "conventional-changelog-cli": "^2.2.2",
     "core-js": "^3.6.5",
     "css-loader": "^6.6.0",
