@@ -42,7 +42,7 @@
     "compression-webpack-plugin": "6.1.1",
     "conventional-changelog-cli": "^2.2.2",
     "core-js": "^3.6.5",
-    "css-loader": "^6.6.0",
+    "css-loader": "^7.1.2",
     "http-proxy-middleware": "^2.0.6",
     "npm-check-updates": "^16.0.5",
     "postcss-custom-properties": "^12.1.4",
