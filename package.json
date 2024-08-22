@@ -44,7 +44,7 @@
     "core-js": "^3.6.5",
     "css-loader": "^6.6.0",
     "http-proxy-middleware": "^2.0.6",
-    "npm-check-updates": "^16.0.5",
+    "npm-check-updates": "^17.1.0",
     "postcss-custom-properties": "^12.1.4",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
